@@ -1,0 +1,25 @@
+/* Login.css */
+.Login {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: rgb(56, 55, 55);
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+    color:azure
+  }
+  

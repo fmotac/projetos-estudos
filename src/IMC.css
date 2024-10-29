@@ -1,0 +1,25 @@
+/* BMI.css */
+.BMI {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: rgb(13, 12, 12);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+    color: white;
+  }
+  

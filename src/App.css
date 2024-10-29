@@ -1,0 +1,58 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* App.css */
+
+.App {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  padding: 5px;
+  width: 200px;
+  font-size: 16px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.erro {
+  color: red;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 16px;
+}
+
